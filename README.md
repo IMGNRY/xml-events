@@ -2,6 +2,8 @@
 xml-events
 ==========
 
+**DEPRECATED** in favor of https://github.com/idottv/xml-object-stream
+
 This module provides a more usable interface to [node-expat](https://github.com/astro/node-expat)'s fast SAX parser. 
 
 
